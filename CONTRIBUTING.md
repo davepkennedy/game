@@ -14,4 +14,4 @@ We're sure your code is super-awesome, but we want to make sure it fits in with 
 - Make sure you've documented what you're changing in the pull request so we know what will happen when we merge your changes
 
 ## Community
-Check the Code of Conduct
+Read the [Code of Conduct](CODE_OF_CONDUCT.md)
