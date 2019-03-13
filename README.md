@@ -18,6 +18,9 @@ Open your web browser to `localhost:3000`
 
 Follow the links to the *HEROKU INSTANCE* in order to join in with the *high score* competition!
 
+### Changelog
+We're maintaining the [Changelog](CHANGELOG.md) to list all the changes which made it into each release
+
 ### Contributing
 Read our [Contributing guide](CONTRIBUTING.md)
 
