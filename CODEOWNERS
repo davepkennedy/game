@@ -1,0 +1,5 @@
+# Future Codeowners:
+# If you have a speciality in one area and not in another, 
+# Assign yourself a pattern which matches files in which you have expertise.
+
+* @davepkennedy
