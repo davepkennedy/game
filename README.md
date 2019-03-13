@@ -2,7 +2,7 @@
 # Jake the Fake Snake
 Jake the Fake Cake Snake is the secret sauce which will save Acme.
 
-> Azure Pipelines badge here
+[![Build Status](https://dev.azure.com/davepkennedy/davepkennedy/_apis/build/status/davepkennedy.game?branchName=master)](https://dev.azure.com/davepkennedy/davepkennedy/_build/latest?definitionId=1&branchName=master)
 
 ### running locally
 
