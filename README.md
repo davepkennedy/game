@@ -26,3 +26,6 @@ Read our [Contributing guide](CONTRIBUTING.md)
 
 ### Community
 Read our [Community guide](CODE_OF_CONDUCT.md)
+
+### Homepage
+Our homepage is [here] (https://davepkennedy.github.io/game/)
