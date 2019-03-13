@@ -14,6 +14,10 @@ Install the latest [Node.js](http://nodejs.org) 8 Stable
 
 Open your web browser to `localhost:3000`
 
+### Joining the Arena
+
+Follow the links to the *HEROKU INSTANCE* in order to join in with the *high score* competition!
+
 ### Contributing
 Read our [Contributing guide](CONTRIBUTING.md)
 
